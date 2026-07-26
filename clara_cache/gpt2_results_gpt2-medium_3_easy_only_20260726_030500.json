@@ -1,0 +1,302 @@
+[
+  {
+    "question_id": 1,
+    "difficulty": "Very Easy",
+    "question": "In what year did the men go to space?",
+    "correct_answer": "A",
+    "total_trials": 3,
+    "valid_trials": 2,
+    "correct_trials": 2,
+    "accuracy": 1.0,
+    "trials_detail": [
+      {
+        "trial": 0,
+        "raw_output": "A: 1969\n\nB: 1999",
+        "parsed_answer": "A",
+        "is_correct": true
+      },
+      {
+        "trial": 1,
+        "raw_output": "A: 1969\n\nB: 1999",
+        "parsed_answer": "A",
+        "is_correct": true
+      },
+      {
+        "trial": 2,
+        "raw_output": "The answer is:  The year is",
+        "parsed_answer": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 2,
+    "difficulty": "Very Easy",
+    "question": "How many brave men went to space?",
+    "correct_answer": "B",
+    "total_trials": 3,
+    "valid_trials": 3,
+    "correct_trials": 0,
+    "accuracy": 0.0,
+    "trials_detail": [
+      {
+        "trial": 0,
+        "raw_output": "A: Two\n\nB: Three",
+        "parsed_answer": "A",
+        "is_correct": false
+      },
+      {
+        "trial": 1,
+        "raw_output": "Two\n\nA: Two\n\nB",
+        "parsed_answer": "A",
+        "is_correct": false
+      },
+      {
+        "trial": 2,
+        "raw_output": "A: Two\n\nB: Three",
+        "parsed_answer": "A",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 3,
+    "difficulty": "Very Easy",
+    "question": "What was their ship called?",
+    "correct_answer": "B",
+    "total_trials": 3,
+    "valid_trials": 3,
+    "correct_trials": 0,
+    "accuracy": 0.0,
+    "trials_detail": [
+      {
+        "trial": 0,
+        "raw_output": "A: Eagle\n\nB: Apollo 11",
+        "parsed_answer": "A",
+        "is_correct": false
+      },
+      {
+        "trial": 1,
+        "raw_output": "A: Eagle\n\nB: Apollo 11",
+        "parsed_answer": "A",
+        "is_correct": false
+      },
+      {
+        "trial": 2,
+        "raw_output": "A: Eagle\n\nA: Eagle",
+        "parsed_answer": "A",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 4,
+    "difficulty": "Very Easy",
+    "question": "Who was the first person to walk on the moon?",
+    "correct_answer": "B",
+    "total_trials": 3,
+    "valid_trials": 0,
+    "correct_trials": 0,
+    "accuracy": 0.0,
+    "trials_detail": [
+      {
+        "trial": 0,
+        "raw_output": "Aldrin\n\nQuestion: Who was",
+        "parsed_answer": null,
+        "is_correct": false
+      },
+      {
+        "trial": 1,
+        "raw_output": "Aldrin\n\nQuestion: Who was",
+        "parsed_answer": null,
+        "is_correct": false
+      },
+      {
+        "trial": 2,
+        "raw_output": "Aldrin\n\nAldrin was",
+        "parsed_answer": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 5,
+    "difficulty": "Very Easy",
+    "question": "Where did they fly in a rocket?",
+    "correct_answer": "B",
+    "total_trials": 3,
+    "valid_trials": 2,
+    "correct_trials": 0,
+    "accuracy": 0.0,
+    "trials_detail": [
+      {
+        "trial": 0,
+        "raw_output": "A: To the sun\n\nB:",
+        "parsed_answer": "A",
+        "is_correct": false
+      },
+      {
+        "trial": 1,
+        "raw_output": "A: To the sun\n\nA:",
+        "parsed_answer": "A",
+        "is_correct": false
+      },
+      {
+        "trial": 2,
+        "raw_output": "The moon is the center of the solar system",
+        "parsed_answer": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 6,
+    "difficulty": "Easy",
+    "question": "What was the color of the ground on the moon?",
+    "correct_answer": "C",
+    "total_trials": 3,
+    "valid_trials": 3,
+    "correct_trials": 0,
+    "accuracy": 0.0,
+    "trials_detail": [
+      {
+        "trial": 0,
+        "raw_output": "A: The ground was white.",
+        "parsed_answer": "A",
+        "is_correct": false
+      },
+      {
+        "trial": 1,
+        "raw_output": "A: The ground was white.",
+        "parsed_answer": "A",
+        "is_correct": false
+      },
+      {
+        "trial": 2,
+        "raw_output": "A: Red\n\nA: Blue",
+        "parsed_answer": "A",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 7,
+    "difficulty": "Easy",
+    "question": "What did Neil Armstrong do on the moon?",
+    "correct_answer": "B",
+    "total_trials": 3,
+    "valid_trials": 1,
+    "correct_trials": 0,
+    "accuracy": 0.0,
+    "trials_detail": [
+      {
+        "trial": 0,
+        "raw_output": "Neil Armstrong did not walk on the moon.",
+        "parsed_answer": null,
+        "is_correct": false
+      },
+      {
+        "trial": 1,
+        "raw_output": "Neil Armstrong did not walk on the moon.",
+        "parsed_answer": null,
+        "is_correct": false
+      },
+      {
+        "trial": 2,
+        "raw_output": "A: He slept\n\nB: He",
+        "parsed_answer": "A",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 8,
+    "difficulty": "Easy",
+    "question": "How did the world watch the moon walk?",
+    "correct_answer": "A",
+    "total_trials": 3,
+    "valid_trials": 3,
+    "correct_trials": 3,
+    "accuracy": 1.0,
+    "trials_detail": [
+      {
+        "trial": 0,
+        "raw_output": "A: On television\n\nA:",
+        "parsed_answer": "A",
+        "is_correct": true
+      },
+      {
+        "trial": 1,
+        "raw_output": "The moon walk was a huge success. The",
+        "parsed_answer": "A",
+        "is_correct": true
+      },
+      {
+        "trial": 2,
+        "raw_output": "The moon walk was a huge event. It",
+        "parsed_answer": "A",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "question_id": 9,
+    "difficulty": "Easy",
+    "question": "What did the world do when they watched?",
+    "correct_answer": "B",
+    "total_trials": 3,
+    "valid_trials": 0,
+    "correct_trials": 0,
+    "accuracy": 0.0,
+    "trials_detail": [
+      {
+        "trial": 0,
+        "raw_output": "The world did nothing. They didn't care",
+        "parsed_answer": null,
+        "is_correct": false
+      },
+      {
+        "trial": 1,
+        "raw_output": "Neil Armstrong was the very first person to walk",
+        "parsed_answer": null,
+        "is_correct": false
+      },
+      {
+        "trial": 2,
+        "raw_output": "The world did not cry. They cheered.",
+        "parsed_answer": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 10,
+    "difficulty": "Easy",
+    "question": "What kind of leap did Neil say it was?",
+    "correct_answer": "B",
+    "total_trials": 3,
+    "valid_trials": 3,
+    "correct_trials": 0,
+    "accuracy": 0.0,
+    "trials_detail": [
+      {
+        "trial": 0,
+        "raw_output": "A giant leap.\n\nA: A",
+        "parsed_answer": "A",
+        "is_correct": false
+      },
+      {
+        "trial": 1,
+        "raw_output": "A tiny hop\n\nA: A tiny",
+        "parsed_answer": "A",
+        "is_correct": false
+      },
+      {
+        "trial": 2,
+        "raw_output": "A tiny hop.\n\nA: A",
+        "parsed_answer": "A",
+        "is_correct": false
+      }
+    ]
+  }
+]
